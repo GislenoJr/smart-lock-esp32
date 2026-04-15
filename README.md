@@ -79,6 +79,11 @@ The firmware is organized into components to ensure scalability and maintainabil
 
 ---
 
+## Author
+
+Gisleno Rodrigues and Josue Sucupira
+Computer Engineering Students – UFC (Quixadá)
+
 ## Project Structure
 
 ```bash
